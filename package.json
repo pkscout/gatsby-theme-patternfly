@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-theme-patternfly-kodi",
+  "name": "gatsby-theme-patternfly",
   "author": "Kyle Johnson <pkscout@kodi.tv>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pkscout/gatsby-theme-patternfly-kodi.git"
+    "url": "https://github.com/pkscout/gatsby-theme-patternfly.git"
   },
   "version": "1.1.4",
   "main": "index.js",
